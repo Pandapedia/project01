@@ -24,7 +24,7 @@ nav ul li a:hover { }
 .feature-section { }
 .feature-section .flex { justify-content: center; }
 .feature-content { }
-.feature-content h2 {font-size: 40px;color: #050c14;LINE-HEIGHT: 1;FONT-WEIGHT: 800;}
+.feature-content h2 {font-size: 50px;color: #050c14;LINE-HEIGHT: 1;FONT-WEIGHT: 800;}
 .feature-content h2 span {color: #ff6484;}
 .feature-content p {color: #3b506cdb;margin: 5px auto;font-size: 18px;font-weight: 400;}
 .text-right{
